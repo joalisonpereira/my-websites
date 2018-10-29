@@ -1,3 +1,3 @@
 # Universe Place
 
-Template responsivo criado com bootstrap.
+Responsive template using bootstrap
