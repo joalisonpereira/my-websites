@@ -939,12 +939,11 @@ ul.social-buttons li:last-child {
 }
 
 #profile {
-    -webkit-clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
-    clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
-    width: 130px;
+    width: 180px;
     height: 220px;
     opacity: .9;
-    margin: 30px 0 20px
+    margin: 30px 0 20px;
+    object-fit: cover;
 }
 
 #profile-desc {
